@@ -13,7 +13,7 @@ Worm Hole: Take a chance to go faster. Take 2 crisis cards, then roll 2 die, go 
 Cargo Dump: decreasing the ship's weight will make it go faster. Sacrifice 3 water or 3 resources to move an extra space this turn.
 
 ## 04 
-Reactor Burn: Go an extra tile by running the reactor extra hot and the risk of losing your ship. Roll one dice, if it's a 1 you lose, anything else, move ahead an extra space.
+Comet: You are able to capture and mine a small comet. Gain 2 Water and 4 Resources, and do not advance to the next tile."
 
 ## 05 
 Search for Water: There maybe some water bearing planet close by. Don't move a space, but search for water. Roll one dice, if it is a six, you're out of luck, otherwise, you've found 4 water.
@@ -92,9 +92,6 @@ Cargo Dump: decreasing the ship's weight will make it go faster. Sacrifice 3 wat
 
 ## 30 
 Search for Water: There maybe some water bearing planet close by. Don't move a space, but search for water. Roll one dice, if it is a six, you're out of luck, otherwise, you've found 4 water. 
-
-## 31 
-Comet: You are able to capture and mine a small comet. Gain 2 Water and 4 Resources, and do not advance to the next tile."
 
 # Crisis Cards
 
