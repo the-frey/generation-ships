@@ -6,12 +6,12 @@ Players 3-6
 ## Set-up
 
 - There are 12 'voyage' tiles, one 'start' tile and one 'destination tile'. 
-- Each player places a ship on the 'start' tile and sets their water counter die to 12.
+- Each player places a ship on the 'start' tile and sets their water counter die to 10.
 - Each player takes a railgun counter. This can be used once and deals 8 points of damage.
 - Receive resources:
   - 10 Crew (yellow)
-  - 10 x Resource (green)
-- Draw 3 Action cards.
+  - 8 x Resource (green)
+- Draw 4 Action cards.
 
 ## Objectives
 
