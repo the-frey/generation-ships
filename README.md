@@ -60,7 +60,7 @@ OR:
 
 - Try and extract resources:
   - Nominate a resource or Hull Integrity, and replenish 3 points for every turn you stay in orbit.
-  - Roll two dice; if you roll a 7, then draw a Crisis card. 
+  - Roll two dice; if you roll a 7, then draw a Crisis card. You only have to do this when you first land on the tile, not on subsequent turns in orbit.
   - You may board or repair on this tile as normal.
   - Skip the movement phase of your turn as you are attempting to extract resources.
 
