@@ -80,6 +80,6 @@ OR:
 #### Risking Overload
 
 - To move two tiles, roll a red die. If the number is 2-6, move your ship foward two tiles. If it is a 1, your reactor overloads and your ship is destroyed. 
-- If a two-tile move means you miss an asteroid tile, you will still have to roll for asteroid damage at the beginning of your next turn. 
+- If a two-tile move means you miss an asteroid or planet tile, then you do not have to roll for crisis cards or damage. You do have to take a crisis card even if you miss the half-way tile.
 
 ## Winning
