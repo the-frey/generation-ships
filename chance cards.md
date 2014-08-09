@@ -13,7 +13,7 @@ Worm Hole: Take a chance to go faster. Take 2 crisis cards, then roll 2 die, go 
 Cargo Dump: decreasing the ship's weight will make it go faster. Sacrifice 3 water or 3 resources to move an extra space this turn.
 
 ## 04 
-Reactor Burn: Go an extra tile by running the reactor extra hot and the risk of losing your ship. Roll one dice, if it's a 1 you lose, anything else, move ahead an extra space.
+Comet: You are able to capture and mine a small comet. Gain 2 Water and 4 Resources, and do not advance to the next tile."
 
 ## 05 
 Search for Water: There maybe some water bearing planet close by. Don't move a space, but search for water. Roll one dice, if it is a six, you're out of luck, otherwise, you've found 4 water.
@@ -93,9 +93,6 @@ Cargo Dump: decreasing the ship's weight will make it go faster. Sacrifice 3 wat
 ## 30 
 Search for Water: There maybe some water bearing planet close by. Don't move a space, but search for water. Roll one dice, if it is a six, you're out of luck, otherwise, you've found 4 water. 
 
-## 31 
-Comet: You are able to capture and mine a small comet. Gain 2 Water and 4 Resources, and do not advance to the next tile."
-
 # Crisis Cards
 
 ## 00 
@@ -162,7 +159,7 @@ Ancient Structure: Your ship comes across an artefact in open space. A science t
 Always the Quiet Ones: A crewmember in engineering kills several crew and escapes in a shuttle, ignoring the launch procedures. An airlock is compromised and a deck is lost. Lose 1 crew.
 
 ## 21 
-No Moon: On investigating a small planetoid for mining possibilities, all contact is lost with the expedition. A follow-up team is sent, but their shuttle is destroyed by a mysterious force. Lose 1 crew.
+No Moon: On investigating a small planetoid for mining possibilities, all contact is lost with the expedition. A follow-up team is sent, but their shuttle is destroyed by a mysterious force. Lose 2 crew.
 
 ## 22 
 Act of God: A piece of debris from the flotilla compromises the hull on the Science deck. Luckily the crew are able to evacuate, but many fragile instruments are lost. Lose 3 resources.
