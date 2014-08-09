@@ -60,6 +60,10 @@ OR:
   - You may board or repair on this tile as normal.
   - Skip the movement phase of your turn as you are attempting to extract resources.
 
+### If on a Nebula Tile
+
+- Electromagnetic interference has scrambled your sensors. Roll two die at the beginning of your turn, you need to roll above a 7 to continue on. 
+
 ### Moving
 
 - Once all trading has completed and cards have been played, move your ship forward one tile. 
