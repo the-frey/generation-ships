@@ -6,8 +6,11 @@ Players 3-6
 ## Set-up
 
 - There are 12 'voyage' tiles, one 'start' tile and one 'destination tile'. 
-- Each player places a ship on the 'start' tile and sets their water counter die to 10.
-- Each player takes a railgun counter. This can be used once and deals 8 points of damage.
+- Each player places a ship on the 'start' tile and chooses their ship:
+    - Javelin - 6 water, 2 railguns
+    - Sulaco - 10 water, 2 anti-ship missiles (3 HI damage each)
+    - Excelsior - 12 water, 0 railguns or missiles
+- Railguns can be used once and deals 8 points of damage.
 - Receive resources:
   - 10 Crew (yellow)
   - 8 x Resource (green)
