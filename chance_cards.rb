@@ -35,9 +35,7 @@ module GenerationShips
       30 => "Search for Water: There maybe some water bearing planet close by. Don't move a space, but search for water. Roll one dice, if it is a six, you're out of luck, otherwise, you've found 4 water.", 
       31 => "Comet: You are able to capture and mine a small comet. Gain 2 Water and 4 Resources, and do not advance to the next tile.",
       32 => "Railgun: Your engineers are able to construct a single-use heavy railgun. Lose two resources and collect a railgun counter. This cannot be used the same turn it is researched, and deals 8 Hull Integrity points worth of damage.",
-      33 => "Railgun: Your engineers are able to construct a single-use heavy railgun. Lose two resources and collect a railgun counter. This cannot be used the same turn it is researched, and deals 8 Hull Integrity points worth of damage.",
-
-
+      33 => "Railgun: Your engineers are able to construct a single-use heavy railgun. Lose two resources and collect a railgun counter. This cannot be used the same turn it is researched, and deals 8 Hull Integrity points worth of damage."
     }
 
     CRISIS_CARDS = {
