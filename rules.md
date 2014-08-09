@@ -7,7 +7,7 @@ Players 3-6
 
 - There are 12 'voyage' tiles, one 'start' tile and one 'destination tile'. 
 - Each player places a ship on the 'start' tile and sets their water counter die to 12.
-- Each player rolls a die to find out if their ship is armed. On 1-3 it is not, on 4-6 it is. If you roll a 4-6, take a railgun counter. This can be used once and deals 8 points of damage.
+- Each player takes a railgun counter. This can be used once and deals 8 points of damage.
 - Receive resources:
   - 10 Crew (yellow)
   - 10 x Resource (green)
