@@ -159,7 +159,7 @@ Ancient Structure: Your ship comes across an artefact in open space. A science t
 Always the Quiet Ones: A crewmember in engineering kills several crew and escapes in a shuttle, ignoring the launch procedures. An airlock is compromised and a deck is lost. Lose 1 crew.
 
 ## 21 
-No Moon: On investigating a small planetoid for mining possibilities, all contact is lost with the expedition. A follow-up team is sent, but their shuttle is destroyed by a mysterious force. Lose 1 crew.
+No Moon: On investigating a small planetoid for mining possibilities, all contact is lost with the expedition. A follow-up team is sent, but their shuttle is destroyed by a mysterious force. Lose 2 crew.
 
 ## 22 
 Act of God: A piece of debris from the flotilla compromises the hull on the Science deck. Luckily the crew are able to evacuate, but many fragile instruments are lost. Lose 3 resources.
