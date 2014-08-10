@@ -8,6 +8,7 @@ Players 3-6
 
 - There are 12 'voyage' tiles, one 'start' tile and one 'destination' tile. 
 - Draw the 'voyage' tiles at random and place them end-to-end.
+- Place a counter on the sixth tile to mark it at the half-way tile. Players will have to draw a crisis card when they pass this.
 - Each player places a ship on the 'start' tile and chooses their ship:
     - Javelin - 6 water, 2 railguns
     - Sulaco - 10 water, 2 anti-ship missiles (3 HI damage each)
@@ -26,13 +27,15 @@ Players 3-6
 
 ## Action Cards
 
-- If you do not have card versions, then use the ruby script in this repo. Make sure you have ruby installed and run `ruby chance_cards.rb`. Leave the script runninfg and use it to generate the cards you need.
+- If you do not have physical cards, then use the ruby script in this repo. Make sure you have ruby installed and run `$ ruby chance_cards.rb`. Leave the script running and use it to generate the cards you need.
 
 ## Crisis Cards
 
-- If you do not have card versions, then use the ruby script in this repo. Make sure you have ruby installed and run `ruby chance_cards.rb`. Leave the script running and use it to generate the cards you need.
+- If you do not have physical cards, then use the same ruby script as for Action cards; simply type 'Crisis' or 'c' when prompted.
 
 ## The Turn
+
+### Moving
 
 Your ship moves _between_ turns, such that on your first turn, you begin by moving your ship off the start tile and on to the first 'voyage' tile. This pattern continues throughout the game; for instance, if you opt to risk overload, your bonus will be gained in an extra tile space moved at the start of your next turn. 
 
@@ -72,20 +75,16 @@ OR:
 
 ### If on a Nebula Tile
 
-- Electromagnetic interference has scrambled your sensors. Roll two die at the beginning of your turn, you need to roll above a 7 to continue on. 
-
-### Moving
-
-- Once all trading has completed and cards have been played, move your ship forward one tile. 
+- Electromagnetic interference has scrambled your sensors. Roll two die at the beginning of your turn, you need to roll above a 7 to continue on.
 
 ### Boarding
 
 - If you have a boarding card, you may board another ship. This will cost you four crew points if it is unsuccessful. If you are successful, you eliminate that player and take all their resources.
 
-#### Risking Overload
+### Risking Overload
 
 - To move two tiles, roll a red die. If the number is 2-6, move your ship foward two tiles. If it is a 1, your reactor overloads and your ship is destroyed. 
-- If a two-tile move means you miss an asteroid or planet tile, then you do not have to roll for crisis cards or damage. You do have to take a crisis card even if you miss the half-way tile.
+- If a two-tile move means you miss an asteroid or planet tile, then you do not have to roll for crisis cards or damage. You do however have to take a crisis card even if you miss the half-way tile.
 
 ## Winning
 
