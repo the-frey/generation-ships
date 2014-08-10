@@ -16,6 +16,8 @@ Players 3-6
 - Receive resources:
   - 10 Crew (yellow)
   - 8 x Resource (green)
+  - Water (determined by ship choice)
+  - 20 Hull Integrity points
 - Draw 4 Action cards.
 
 ## Objectives
