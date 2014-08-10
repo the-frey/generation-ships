@@ -90,18 +90,20 @@ OR:
 
 The first player to arrive on the destination tile wins.
 
-## Authors
+## Boring Stuff
+
+### Authors
 
 Joseph Anderson, [Jonathan Dark](https://twitter.com/jonnyjdark), [Jake Hartnell](https://twitter.com/jakehartnell), [Alex Lynham](https://twitter.com/hipsters_unite)
 
-## Version
+### Version
 
 This version is: 0.1.0 and should be considered beta software. It is _not_ production ready!
 
-## Contributing
+### Contributing
 
 Play the game and issue a pull request with your ideas, we'd love to hear them.
 
-## License
+### License
 
 This game is available under a [Creative Commons BY-NC-SA 2.0 license](https://creativecommons.org/licenses/by-nc-sa/2.0/). That means you can use, remix, and share the game for free, but you can’t sell it without our permission.
