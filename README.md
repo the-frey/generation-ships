@@ -81,7 +81,6 @@ OR:
 ### Boarding
 
 - If you have a boarding card, you may board another ship. This will cost you four crew points if it is unsuccessful. If you are successful, you eliminate that player and take all their resources.
-- 
 
 #### Risking Overload
 
@@ -89,3 +88,21 @@ OR:
 - If a two-tile move means you miss an asteroid or planet tile, then you do not have to roll for crisis cards or damage. You do have to take a crisis card even if you miss the half-way tile.
 
 ## Winning
+
+The first player to arrive on the destination tile wins.
+
+## Authors
+
+Joseph Anderson, [Jonathan Dark](https://twitter.com/jonnyjdark), [Jake Hartnell](https://twitter.com/jakehartnell), [Alex Lynham](https://twitter.com/hipsters_unite)
+
+## Version
+
+This version is: 0.1.0 and should be considered beta software. It is _not_ production ready!
+
+## Contributing
+
+Play the game and issue a pull request with your ideas, we'd love to hear them.
+
+## License
+
+This game is available under a [Creative Commons BY-NC-SA 2.0 license](https://creativecommons.org/licenses/by-nc-sa/2.0/). That means you can use, remix, and share the game for free, but you can’t sell it without our permission.
