@@ -27,7 +27,7 @@ Players 3-6
 
 ## Action Cards
 
-- If you do not have physical cards, then use the ruby script in this repo. Make sure you have ruby installed and run `$ ruby chance_cards.rb`. Leave the script running and use it to generate the cards you need.
+- If you do not have physical cards, then use the ruby script in this repo. Make sure you have ruby installed and run `$ ruby start.rb`. Leave the script running and use it to generate the cards you need.
 
 ## Crisis Cards
 
