@@ -35,7 +35,18 @@ module GenerationShips
       30 => "Search for Water: There maybe some water bearing planet close by. Don't move a space, but search for water. Roll one dice, if it is a 1, you're out of luck, otherwise, you've found 4 water.", 
       31 => "Comet: You are able to capture and mine a small comet. Gain 2 Water and 4 Resources, and do not advance to the next tile.",
       32 => "Railgun: Your engineers are able to construct a single-use heavy railgun. Lose two resources and collect a railgun counter. This cannot be used the same turn it is researched, and deals 8 Hull Integrity points worth of damage.",
-      33 => "Railgun: Your engineers are able to construct a single-use heavy railgun. Lose two resources and collect a railgun counter. This cannot be used the same turn it is researched, and deals 8 Hull Integrity points worth of damage."
+      33 => "Railgun: Your engineers are able to construct a single-use heavy railgun. Lose two resources and collect a railgun counter. This cannot be used the same turn it is researched, and deals 8 Hull Integrity points worth of damage.",
+      34 => "Diplomatic Solution: Working together with the crew of another ship, you manage to capture and mine an asteroid. Both players gain 1 water and 1 resource but cannot attack each other for the next 2 tiles. Both players must agree for this card to be played.",
+      35 => "Diplomatic Solution: Working together with the crew of another ship, you manage to improve your recycling systems. Both players gain 1 water and 1 resource but cannot attack each other for the next 2 tiles. Both players must agree for this card to be played.",
+      36 => "Diplomatic Solution: Working together with the crew of another ship, you manage to capture and mine an asteroid. Both players gain 1 water and 1 resource but cannot attack each other for the next 2 tiles. Both players must agree for this card to be played.",
+      37 => "Diplomatic Solution: Working together with the crew of another ship, you manage to improve your recycling systems. Both players gain 1 water and 1 resource but cannot attack each other for the next 2 tiles. Both players must agree for this card to be played.",
+      38 => "Diplomatic Solution: Working together with the crew of another ship, you manage to improve your recycling systems. Both players gain 1 water and 1 resource but cannot attack each other for the next 2 tiles. Both players must agree for this card to be played.",
+      39 => "Diplomatic Solution: Working together with the crew of another ship, you manage to capture and mine an asteroid. Both players gain 1 water and 1 resource but cannot attack each other for the next 2 tiles. Both players must agree for this card to be played.",
+      40 => "Diplomatic Solution: Working together with the crew of another ship, you manage to improve your recycling systems. Both players gain 1 water and 1 resource but cannot attack each other for the next 2 tiles. Both players must agree for this card to be played.",
+      41 => "Diplomatic Solution: Working together with the crew of another ship, you manage to capture and mine an asteroid. Both players gain 1 water and 1 resource but cannot attack each other for the next 2 tiles. Both players must agree for this card to be played.",
+      42 => "Diplomatic Solution: Working together with the crew of another ship, you manage to improve your recycling systems. Both players gain 1 water and 1 resource but cannot attack each other for the next 2 tiles. Both players must agree for this card to be played.",
+      43 => "Missile: Fire a ship to ship missile at a ship you nominate. Knock 3 Hull Integrity points off your target.",
+      44 => "Railgun: Your engineers are able to construct a single-use heavy railgun. Lose two resources and collect a railgun counter. This cannot be used the same turn it is researched, and deals 8 Hull Integrity points worth of damage."
     }
 
     CRISIS_CARDS = {
@@ -75,8 +86,8 @@ module GenerationShips
       33 => "Cosmic Rays: Loose 1 Crew.",
       34 => "Small space rocks strike the Hull. Lose 2 Hull and 1 water.",
       35 => "Small space rocks strike the Hull. Lose 2 Hull and 1 water.",
-      36 => "Cosmic ray's make some of the water radioactive. Loose 2 water.",
-      37 => "Cosmic ray's make some of the water radioactive. Loose 2 water.",
+      36 => "Cosmic rays make some of the water radioactive. Lose 2 water.",
+      37 => "Cosmic rays make some of the water radioactive. Lose 2 water.",
       38 => "Small space rocks strike the Hull. Lose 2 Hull.",
       39 => "Small space rocks strike the Hull. Lose 2 Hull."
     }
@@ -85,11 +96,11 @@ module GenerationShips
       case choice
         when 'c'
           # pick random crisis card
-          card_index = Random.rand(0..CRISIS_CARDS.length)
+          card_index = Random.rand(0...CRISIS_CARDS.length)
           CRISIS_CARDS[card_index]
         when 'a'
           # pick random action card
-          card_index = Random.rand(0..ACTION_CARDS.length)
+          card_index = Random.rand(0...ACTION_CARDS.length)
           ACTION_CARDS[card_index]
         else 
           puts "Sorry, I don't understand that option."
