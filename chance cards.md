@@ -1,37 +1,37 @@
 # Action Cards
 
-## 00 
+## 0 
 Tactical Nuke: Pick a player and destroy them. They lose the game.
 
-## 01 
+## 1 
 Boarding Card: Board another ship; if you win the ensuing battle, you will have complete control of their ship as well as gain all their crew, water, and resources. However the odds are against you, you may only roll one dice, the defender will roll two - unless they have less than four crew remaining, in which case they roll one die. The largest number wins, a tie goes to the defender. If the defender wins lose 4 crew and 4 resources.
 
-## 02 
+## 2 
 Worm Hole: Take a chance to go faster. Take 2 crisis cards, then roll 2 die, go to the corresponding tile for the number rolled.
 
-## 03 
+## 3 
 Cargo Dump: decreasing the ship's weight will make it go faster. Sacrifice 3 water or 3 resources to move an extra space this turn.
 
-## 04 
-Comet: You are able to capture and mine a small comet. Gain 2 Water and 4 Resources, and do not advance to the next tile."
+## 4 
+Reactor Burn: Go an extra tile by running the reactor extra hot and the risk of losing your ship. Roll one dice, if it's a 1 you lose, anything else, move ahead an extra space.
 
-## 05 
+## 5 
 Search for Water: There maybe some water bearing planet close by. Don't move a space, but search for water. Roll one dice, if it is a six, you're out of luck, otherwise, you've found 4 water.
 
-## 06 
+## 6 
 Missile: Fire a ship to ship missile at a ship you nominate. Knock 3 Hull Integrity points off your target.
 
-## 07 
+## 7 
 Search for Resources: Your probes have detected that nearby systems may have extractable resources. Roll a die; if it is a 1, your probes were malfunctioning and you find nothing. Otherwise, roll a second die to determine the amount of resources you extract. You cannot advance to the next tile if you play this card.
 
-## 08 
+## 8 
 Ice Moon: Your long range sensors pick up an icy body in the system. On inspection you find an ice moon suitable for mining. Gain 6 water and do not advance to the next tile this turn while you complete mining operations.
 
-## 09 
+## 9 
 Sabotage: You have placed a saboteur on one of the other ships. Their engines are crippled by the theft of dilithium crystals and they must stay on their current tile for one more turn.
 
 ## 10 
-Medical Research: On board medical staff make advance, if you have illnesses cure them, or keep this card until you need it.
+Medical Research: On board medical staff make improvements to the med bay, allowing them to treat exotic illnesses. If you have illnesses cure them, or keep this card until you need it.
 
 ## 11 
 Search for Resources: Your probes have detected that nearby systems may have extractable resources. Roll a die; if it is a 1, your probes were malfunctioning and you find nothing. Otherwise, roll a second die to determine the amount of resources you extract. You cannot advance to the next tile if you play this card.
@@ -49,7 +49,7 @@ Boarding Card: Board another ship; if you win the ensuing battle, you will have 
 Reactor Burn: Go an extra tile by running the reactor extra hot and the risk of losing your ship. Roll one dice, if it's a 1 you lose, anything else, move ahead an extra space.
 
 ## 16 
-Search for Water: There maybe some water bearing planet close by. Don't move a space, but search for water. Roll one dice, if it is a six, you're out of luck, otherwise, you've found 4 water.
+Search for Water: There maybe some water bearing planet close by. Don't move a space, but search for water. Roll one dice, if it is a 1, you're out of luck, otherwise, you've found 4 water.
 
 ## 17 
 Boarding Card: Board another ship; if you win the ensuing battle, you will have complete control of their ship as well as gain all their crew, water, and resources. However the odds are against you, you may only roll one dice, the defender will roll two - unless they have less than four crew remaining, in which case they roll one die. The largest number wins, a tie goes to the defender. If the defender wins lose 4 crew and 4 resources.
@@ -67,7 +67,7 @@ Search for Resources: Your probes have detected that nearby systems may have ext
 Sabotage: You have placed a saboteur on one of the other ships. Their engines are crippled by the theft of dilithium crystals and they must stay on their current tile for one more turn.
 
 ## 22 
-Search for Water: There maybe some water bearing planet close by. Don't move a space, but search for water. Roll one dice, if it is a six, you're out of luck, otherwise, you've found 4 water.
+Search for Water: There maybe some water bearing planet close by. Don't move a space, but search for water. Roll one dice, if it is a 1, you're out of luck, otherwise, you've found 4 water.
 
 ## 23 
 Cargo Dump: decreasing the ship's weight will make it go faster. Sacrifice 3 water or 3 resources to move an extra space this turn.
@@ -91,44 +91,83 @@ Missile: Fire a ship to ship missile at a ship you nominate. Knock 3 Hull Integr
 Cargo Dump: decreasing the ship's weight will make it go faster. Sacrifice 3 water or 3 resources to move an extra space this turn.
 
 ## 30 
-Search for Water: There maybe some water bearing planet close by. Don't move a space, but search for water. Roll one dice, if it is a six, you're out of luck, otherwise, you've found 4 water. 
+Search for Water: There maybe some water bearing planet close by. Don't move a space, but search for water. Roll one dice, if it is a 1, you're out of luck, otherwise, you've found 4 water.
 
-## 32
+## 31 
+Comet: You are able to capture and mine a small comet. Gain 2 Water and 4 Resources, and do not advance to the next tile.
+
+## 32 
 Railgun: Your engineers are able to construct a single-use heavy railgun. Lose two resources and collect a railgun counter. This cannot be used the same turn it is researched, and deals 8 Hull Integrity points worth of damage.
 
-## 33
+## 33 
 Railgun: Your engineers are able to construct a single-use heavy railgun. Lose two resources and collect a railgun counter. This cannot be used the same turn it is researched, and deals 8 Hull Integrity points worth of damage.
+
+## 34 
+Diplomatic Solution: Working together with the crew of another ship, you manage to capture and mine an asteroid. Both players gain 1 water and 1 resource but cannot attack each other for the next 2 tiles. Both players must agree for this card to be played.
+
+## 35 
+Diplomatic Solution: Working together with the crew of another ship, you manage to improve your recycling systems. Both players gain 1 water and 1 resource but cannot attack each other for the next 2 tiles. Both players must agree for this card to be played.
+
+## 36 
+Diplomatic Solution: Working together with the crew of another ship, you manage to capture and mine an asteroid. Both players gain 1 water and 1 resource but cannot attack each other for the next 2 tiles. Both players must agree for this card to be played.
+
+## 37 
+Diplomatic Solution: Working together with the crew of another ship, you manage to improve your recycling systems. Both players gain 1 water and 1 resource but cannot attack each other for the next 2 tiles. Both players must agree for this card to be played.
+
+## 38 
+Diplomatic Solution: Working together with the crew of another ship, you manage to improve your recycling systems. Both players gain 1 water and 1 resource but cannot attack each other for the next 2 tiles. Both players must agree for this card to be played.
+
+## 39 
+Diplomatic Solution: Working together with the crew of another ship, you manage to capture and mine an asteroid. Both players gain 1 water and 1 resource but cannot attack each other for the next 2 tiles. Both players must agree for this card to be played.
+
+## 40 
+Diplomatic Solution: Working together with the crew of another ship, you manage to improve your recycling systems. Both players gain 1 water and 1 resource but cannot attack each other for the next 2 tiles. Both players must agree for this card to be played.
+
+## 41 
+Diplomatic Solution: Working together with the crew of another ship, you manage to capture and mine an asteroid. Both players gain 1 water and 1 resource but cannot attack each other for the next 2 tiles. Both players must agree for this card to be played.
+
+## 42 
+Diplomatic Solution: Working together with the crew of another ship, you manage to improve your recycling systems. Both players gain 1 water and 1 resource but cannot attack each other for the next 2 tiles. Both players must agree for this card to be played.
+
+## 43 
+Missile: Fire a ship to ship missile at a ship you nominate. Knock 3 Hull Integrity points off your target.
+
+## 44 
+Railgun: Your engineers are able to construct a single-use heavy railgun. Lose two resources and collect a railgun counter. This cannot be used the same turn it is researched, and deals 8 Hull Integrity points worth of damage.
+
+## 45 
+Medical Research: On board medical staff make improvements to the med bay, allowing them to treat exotic illnesses. If you have illnesses cure them, or keep this card until you need it.
 
 # Crisis Cards
 
-## 00 
+## 0 
 Asteroid Strike: An asteroid strikes your water reservoir and causes irreparable damage; for the rest of the game, lose 2 water points per turn.
 
-## 01 
+## 1 
 Mutiny: There is a mutiny on board the ship. Quelling it claims half of your crew and the water reservoir is damaged during the fighting. For the remainder of the game, lose 2 water points per turn.
 
-## 02 
+## 2 
 Funny Feeling: A strange illness has broken out among the crew. Lose 1 crew counter per turn until a cure is found.
 
-## 03 
+## 3 
 Crop Mutation: A dangerous contagion is affecting your food supply. Immediately abandon 5 Resources in a crash attempt to sanitize your food stock or lose 1 crew point per turn until the end of the game.
 
-## 04 
+## 4 
 Plague! Lose 1 crew per turn until a cure is found. Any ships boarding or trading with you will also be infected. You may infect others by boarding them, if you are able.
 
-## 05 
+## 5 
 Containment failure! Your engines have to be taken offline to save the ship - do not move from your current tile for two turns while repairs take place.
 
-## 06 
+## 6 
 Always in Threes: Your luck has taken a turn for the worse. Draw a crisis card on each of your next two turns.
 
-## 07 
+## 7 
 Pirates: A cutter of unknown origin comes alongside your ship and threatens you with advanced weaponry. You accede to their demands and transfer three of each resource (including crew and water) to their ship in exchange for safe passage.
 
-## 08 
+## 8 
 Space Dementia: Your Executive Officer has a nervous breakdown while on duty. By the time he has been sedated, the nav console is broken. Stay on your current tile for one further turn while it is repaired.
 
-## 09 
+## 9 
 Icarus: While investigating a nearby spatial anomaly for potential advantage, a shuttle full of crew is lost. Lose 1 crew point.
 
 ## 10 
@@ -165,7 +204,7 @@ Ancient Structure: Your ship comes across an artefact in open space. A science t
 Always the Quiet Ones: A crewmember in engineering kills several crew and escapes in a shuttle, ignoring the launch procedures. An airlock is compromised and a deck is lost. Lose 1 crew.
 
 ## 21 
-No Moon: On investigating a small planetoid for mining possibilities, all contact is lost with the expedition. A follow-up team is sent, but their shuttle is destroyed by a mysterious force. Lose 2 crew.
+No Moon: On investigating a small planetoid for mining possibilities, all contact is lost with the expedition. A follow-up team is sent, but their shuttle is destroyed by a mysterious force. Lose 1 crew.
 
 ## 22 
 Act of God: A piece of debris from the flotilla compromises the hull on the Science deck. Luckily the crew are able to evacuate, but many fragile instruments are lost. Lose 3 resources.
@@ -196,3 +235,27 @@ Sprung a Leak: Many small leaks in the water reservoir add up over time. Though 
 
 ## 31 
 Rogue AI: I'm sorry Dave, I'm afraid you lose 3 Hull Integrity points when the ship AI goes haywire.
+
+## 32 
+Cosmic Rays: Loose 1 Crew.
+
+## 33 
+Cosmic Rays: Loose 1 Crew.
+
+## 34 
+Small space rocks strike the Hull. Lose 2 Hull and 1 water.
+
+## 35 
+Small space rocks strike the Hull. Lose 2 Hull and 1 water.
+
+## 36 
+Cosmic rays make some of the water radioactive. Lose 2 water.
+
+## 37 
+Cosmic rays make some of the water radioactive. Lose 2 water.
+
+## 38 
+Small space rocks strike the Hull. Lose 2 Hull.
+
+## 39 
+Small space rocks strike the Hull. Lose 2 Hull.

@@ -102,7 +102,7 @@ This version is: 0.1.0 and should be considered beta software. It is _not_ produ
 
 ### Contributing
 
-Play the game and issue a pull request with your ideas, we'd love to hear them.
+Play the game and issue a pull request with your ideas, we'd love to hear them. Make sure that if you add cards, you also add them to the card manifest markdown file.
 
 ### License
 
