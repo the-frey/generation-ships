@@ -36,8 +36,7 @@ Players 3-6
 
 ### If on a regular tile:
 
-- Take 1 point from your water store. 
-- Draw a Action card. You may play one per turn.
+- Take 1 point from your water store.
 - Trade with other players or buy a Action card for 3 Resources; you may decide the rate of exchange of resources between yourselves. 
 - You may play a weapon, either a railgun or a Action card (*only* if no Action card has been played already). The target ship must be on the same tile or the tile behind.
 - You may play a boarding card, but only if no Action card has been played already.
