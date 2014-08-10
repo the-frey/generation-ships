@@ -35,17 +35,7 @@ module GenerationShips
       30 => "Search for Water: There maybe some water bearing planet close by. Don't move a space, but search for water. Roll one dice, if it is a 1, you're out of luck, otherwise, you've found 4 water.", 
       31 => "Comet: You are able to capture and mine a small comet. Gain 2 Water and 4 Resources, and do not advance to the next tile.",
       32 => "Railgun: Your engineers are able to construct a single-use heavy railgun. Lose two resources and collect a railgun counter. This cannot be used the same turn it is researched, and deals 8 Hull Integrity points worth of damage.",
-      33 => "Railgun: Your engineers are able to construct a single-use heavy railgun. Lose two resources and collect a railgun counter. This cannot be used the same turn it is researched, and deals 8 Hull Integrity points worth of damage.",
-      34 => "Diplomatic Solution: Working together with the crew of another ship, you manage to capture and mine an asteroid. Both players gain 1 water and 1 resource but cannot attack each other for the next 2 tiles. Both players must agree for this card to be played.",
-      35 => "Diplomatic Solution: Working together with the crew of another ship, you manage to improve your recycling systems. Both players gain 1 water and 1 resource but cannot attack each other for the next 2 tiles. Both players must agree for this card to be played.",
-      36 => "Diplomatic Solution: Working together with the crew of another ship, you manage to capture and mine an asteroid. Both players gain 1 water and 1 resource but cannot attack each other for the next 2 tiles. Both players must agree for this card to be played.",
-      37 => "Diplomatic Solution: Working together with the crew of another ship, you manage to improve your recycling systems. Both players gain 1 water and 1 resource but cannot attack each other for the next 2 tiles. Both players must agree for this card to be played.",
-      38 => "Diplomatic Solution: Working together with the crew of another ship, you manage to improve your recycling systems. Both players gain 1 water and 1 resource but cannot attack each other for the next 2 tiles. Both players must agree for this card to be played.",
-      39 => "Diplomatic Solution: Working together with the crew of another ship, you manage to capture and mine an asteroid. Both players gain 1 water and 1 resource but cannot attack each other for the next 2 tiles. Both players must agree for this card to be played.",
-      40 => "Diplomatic Solution: Working together with the crew of another ship, you manage to improve your recycling systems. Both players gain 1 water and 1 resource but cannot attack each other for the next 2 tiles. Both players must agree for this card to be played.",
-      41 => "Diplomatic Solution: Working together with the crew of another ship, you manage to capture and mine an asteroid. Both players gain 1 water and 1 resource but cannot attack each other for the next 2 tiles. Both players must agree for this card to be played.",
-      42 => "Diplomatic Solution: Working together with the crew of another ship, you manage to improve your recycling systems. Both players gain 1 water and 1 resource but cannot attack each other for the next 2 tiles. Both players must agree for this card to be played.",
-      43 => "Missile: Fire a ship to ship missile at a ship you nominate. Knock 3 Hull Integrity points off your target."
+      33 => "Railgun: Your engineers are able to construct a single-use heavy railgun. Lose two resources and collect a railgun counter. This cannot be used the same turn it is researched, and deals 8 Hull Integrity points worth of damage."
     }
 
     CRISIS_CARDS = {
@@ -80,7 +70,15 @@ module GenerationShips
       28 => 'Hydroponic Failure: The oxygen gardens are in danger of failing, as is the crop section, due to lack of water. You must increase their allotment to survive, but do you have enough? If you have less than 8 water points, then roll a die. If it is a 1, life support becomes unstable and you lose 6 crew points. Any other number, and you lose 2 crew due to starvation.',
       29 => 'Rioting: The crew are restless. While subduing the rioters, there are unfortunately some casualties. Lose 2 crew.',
       30 => 'Sprung a Leak: Many small leaks in the water reservoir add up over time. Though you try and fix them, you cannot find them all. Lose 2 water points each turn for the rest of the game.',
-      31 => "Rogue AI: I'm sorry Dave, I'm afraid you lose 3 Hull Integrity points when the ship AI goes haywire."
+      31 => "Rogue AI: I'm sorry Dave, I'm afraid you lose 3 Hull Integrity points when the ship AI goes haywire.",
+      32 => "Cosmic Rays: Loose 1 Crew.",
+      33 => "Cosmic Rays: Loose 1 Crew.",
+      34 => "Small space rocks strike the Hull. Lose 2 Hull and 1 water.",
+      35 => "Small space rocks strike the Hull. Lose 2 Hull and 1 water.",
+      36 => "Cosmic ray's make some of the water radioactive. Loose 2 water.",
+      37 => "Cosmic ray's make some of the water radioactive. Loose 2 water.",
+      38 => "Small space rocks strike the Hull. Lose 2 Hull.",
+      39 => "Small space rocks strike the Hull. Lose 2 Hull."
     }
 
     def self.serve_card(choice)
