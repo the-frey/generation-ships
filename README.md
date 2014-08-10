@@ -6,6 +6,7 @@ Players 3-6
 ## Set-up
 
 - There are 12 'voyage' tiles, one 'start' tile and one 'destination tile'. 
+- Draw the 'voyage' tiles at random and place them end-to-end.
 - Each player places a ship on the 'start' tile and chooses their ship:
     - Javelin - 6 water, 2 railguns
     - Sulaco - 10 water, 2 anti-ship missiles (3 HI damage each)
@@ -26,9 +27,11 @@ Players 3-6
 
 ## Crisis Cards
 
-- If you do not have card versions, then use the ruby script in this repo. Make sure you have ruby installed and run `ruby chance_cards.rb`. Leave the script runninfg and use it to generate the cards you need.
+- If you do not have card versions, then use the ruby script in this repo. Make sure you have ruby installed and run `ruby chance_cards.rb`. Leave the script running and use it to generate the cards you need.
 
 ## The Turn
+
+Your ship moves _between_ turns, such that on your first turn, you begin by moving your ship off the start tile and on to the first 'voyage' tile. This pattern continues throughout the game; for instance, if you opt to risk overload, your bonus will be gained in an extra tile space moved at the start of your next turn. 
 
 ### On the half-way tile
 
@@ -37,6 +40,7 @@ Players 3-6
 ### If on a regular tile:
 
 - Take 1 point from your water store.
+- Roll two dice: if they add up to 7, then take a Crisis card.
 - Trade with other players or buy a Action card for 3 Resources; you may decide the rate of exchange of resources between yourselves. 
 - You may play a weapon, either a railgun or a Action card (*only* if no Action card has been played already). The target ship must be on the same tile or the tile behind.
 - You may play a boarding card, but only if no Action card has been played already.
@@ -61,7 +65,7 @@ OR:
   - Nominate a resource or Hull Integrity, and replenish 3 points for every turn you stay in orbit.
   - Roll two dice; if you roll a 7, then draw a Crisis card. You only have to do this when you first land on the tile, not on subsequent turns in orbit.
   - You may board or repair on this tile as normal.
-  - Skip the movement phase of your turn as you are attempting to extract resources.
+  - Skip the movement phase of your next turn if you are attempting to extract resources.
 
 ### If on a Nebula Tile
 

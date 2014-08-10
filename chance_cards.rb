@@ -12,7 +12,7 @@ module GenerationShips
       7 => "Search for Resources: Your probes have detected that nearby systems may have extractable resources. Roll a die; if it is a 1, your probes were malfunctioning and you find nothing. Otherwise, roll a second die to determine the amount of resources you extract. You cannot advance to the next tile if you play this card.",
       8 => "Ice Moon: Your long range sensors pick up an icy body in the system. On inspection you find an ice moon suitable for mining. Gain 6 water and do not advance to the next tile this turn while you complete mining operations.",
       9 => "Sabotage: You have placed a saboteur on one of the other ships. Their engines are crippled by the theft of dilithium crystals and they must stay on their current tile for one more turn.",
-      10 => "Medical Research: On board medical staff make advance, if you have illnesses cure them, or keep this card until you need it.",
+      10 => "Medical Research: On board medical staff make improvements to the med bay, allowing them to treat exotic illnesses. If you have illnesses cure them, or keep this card until you need it.",
       11 => "Search for Resources: Your probes have detected that nearby systems may have extractable resources. Roll a die; if it is a 1, your probes were malfunctioning and you find nothing. Otherwise, roll a second die to determine the amount of resources you extract. You cannot advance to the next tile if you play this card.",
       12 => "Search for Resources: Your probes have detected that nearby systems may have extractable resources. Roll a die; if it is a 1, your probes were malfunctioning and you find nothing. Otherwise, roll a second die to determine the amount of resources you extract. You cannot advance to the next tile if you play this card.",
       13 => "Search for Water: There maybe some water bearing planet close by. Don't move a space, but search for water. Roll one dice, if it is a six, you're out of luck, otherwise, you've found 4 water.",
@@ -46,7 +46,8 @@ module GenerationShips
       41 => "Diplomatic Solution: Working together with the crew of another ship, you manage to capture and mine an asteroid. Both players gain 1 water and 1 resource but cannot attack each other for the next 2 tiles. Both players must agree for this card to be played.",
       42 => "Diplomatic Solution: Working together with the crew of another ship, you manage to improve your recycling systems. Both players gain 1 water and 1 resource but cannot attack each other for the next 2 tiles. Both players must agree for this card to be played.",
       43 => "Missile: Fire a ship to ship missile at a ship you nominate. Knock 3 Hull Integrity points off your target.",
-      44 => "Railgun: Your engineers are able to construct a single-use heavy railgun. Lose two resources and collect a railgun counter. This cannot be used the same turn it is researched, and deals 8 Hull Integrity points worth of damage."
+      44 => "Railgun: Your engineers are able to construct a single-use heavy railgun. Lose two resources and collect a railgun counter. This cannot be used the same turn it is researched, and deals 8 Hull Integrity points worth of damage.",
+      45 => "Medical Research: On board medical staff make improvements to the med bay, allowing them to treat exotic illnesses. If you have illnesses cure them, or keep this card until you need it."
     }
 
     CRISIS_CARDS = {
