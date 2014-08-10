@@ -1,6 +1,7 @@
 # Generation Ships Rulebook
 
 Playing time: 30 minutes - 1 hour
+
 Players 3-6
 
 ## Set-up
