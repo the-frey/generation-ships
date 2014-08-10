@@ -6,7 +6,7 @@ Players 3-6
 
 ## Set-up
 
-- There are 12 'voyage' tiles, one 'start' tile and one 'destination tile'. 
+- There are 12 'voyage' tiles, one 'start' tile and one 'destination' tile. 
 - Draw the 'voyage' tiles at random and place them end-to-end.
 - Each player places a ship on the 'start' tile and chooses their ship:
     - Javelin - 6 water, 2 railguns
