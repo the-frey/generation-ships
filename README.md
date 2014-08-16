@@ -4,6 +4,10 @@ Playing time: 30 minutes - 1 hour
 
 Players 3-6
 
+## Making a Copy of the Game
+
+Currently, there is no way of purchasing a pre-made copy of the game. Instructions for making your own can be found in the 'Construction' document. Images of our sets coming soon.
+
 ## Set-up
 
 - There are 12 'voyage' tiles, one 'start' tile and one 'destination' tile. 
@@ -16,7 +20,7 @@ Players 3-6
 - Railguns can be used once and deals 8 points of damage.
 - Receive resources:
   - 10 Crew (yellow)
-  - 8 x Resource (green)
+  - 10 x Resource (green)
   - Water (determined by ship choice)
   - 20 Hull Integrity points
 - Draw 4 Action cards.
