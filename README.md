@@ -6,9 +6,15 @@ Players 3-6
 
 ## Making a Copy of the Game
 
-Currently, there is no way of purchasing a pre-made copy of the game. Instructions for making your own can be found in the 'Construction' document. Images of our sets coming soon.
+Currently, there is no way of purchasing a pre-made copy of the game. Instructions for making your own can be found in the 'Construction' document.
+
+[A Hacky version of the game looks like this](https://github.com/the-frey/generation-ships/blob/master/manual_images/basic_board.jpg?raw=true)
+[A full version of the game using the correct image resources looks like this](https://github.com/the-frey/generation-ships/blob/master/manual_images/full_board.jpg?raw=true)
 
 ## Set-up
+
+[Dice needed to play](https://github.com/the-frey/generation-ships/blob/master/manual_images/dice.jpg?raw=true)
+[Pieces can be made of Lego or whatever you have around - see the construction guide for more advice.](https://github.com/the-frey/generation-ships/blob/master/manual_images/pieces.jpg?raw=true)
 
 - There are 12 'voyage' tiles, one 'start' tile and one 'destination' tile. 
 - Draw the 'voyage' tiles at random and place them end-to-end.
@@ -30,6 +36,8 @@ Currently, there is no way of purchasing a pre-made copy of the game. Instructio
 
 
 ## Action Cards
+
+[Using the ruby script](https://github.com/the-frey/generation-ships/blob/master/manual_images/using_the_script.jpg?raw=true)
 
 - If you do not have physical cards, then use the ruby script in this repo. Make sure you have ruby installed and run `$ ruby start.rb`. Leave the script running and use it to generate the cards you need.
 
@@ -89,6 +97,8 @@ OR:
 
 - To move two tiles, roll a red die. If the number is 2-6, move your ship foward two tiles. If it is a 1, your reactor overloads and your ship is destroyed. 
 - If a two-tile move means you miss an asteroid or planet tile, then you do not have to roll for crisis cards or damage. You do however have to take a crisis card even if you miss the half-way tile.
+
+[Risking overload often ends in disaster.](https://github.com/the-frey/generation-ships/blob/master/manual_images/playing.jpg?raw=true)
 
 ## Winning
 
