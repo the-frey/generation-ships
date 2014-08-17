@@ -10,21 +10,21 @@ Currently, there is no way of purchasing a pre-made copy of the game. Instructio
 
 ![A Hacky version of the game looks like this](https://github.com/the-frey/generation-ships/blob/master/manual_images/basic_board.jpg?raw=true)
 
-_A__simple__version__of__the__game__board_
+_A simple version of the game board_
 
 ![A full version of the game using the correct image resources looks like this](https://github.com/the-frey/generation-ships/blob/master/manual_images/full_board.jpg?raw=true)
 
-_A__board__made__using__the__image__assets__provided_
+_A board made using the image assets provided_
 
 ## Set-up
 
 ![Dice needed to play](https://github.com/the-frey/generation-ships/blob/master/manual_images/dice.jpg?raw=true)
 
-_Dice__needed__for__four__players_
+_Dice needed for four players_
 
 ![Pieces can be made of Lego or whatever you have around - see the construction guide for more advice.](https://github.com/the-frey/generation-ships/blob/master/manual_images/pieces.jpg?raw=true)
 
-_Player__ship__pieces_
+_Player ship pieces_
 
 - There are 12 'voyage' tiles, one 'start' tile and one 'destination' tile. 
 - Draw the 'voyage' tiles at random and place them end-to-end.
@@ -49,7 +49,7 @@ _Player__ship__pieces_
 
 ![Using the ruby script](https://github.com/the-frey/generation-ships/blob/master/manual_images/using_the_script.jpg?raw=true)
 
-_Using__the__script__to__draw__cards_
+_Using the script to draw cards_
 
 - If you do not have physical cards, then use the ruby script in this repo. Make sure you have ruby installed and run `$ ruby start.rb`. Leave the script running and use it to generate the cards you need.
 
@@ -112,7 +112,7 @@ OR:
 
 ![Risking overload often ends in disaster.](https://github.com/the-frey/generation-ships/blob/master/manual_images/playing.jpg?raw=true)
 
-_Risking__overload__often__ends__in__disaster_
+_Risking overload often ends in disaster_
 
 ## Winning
 
